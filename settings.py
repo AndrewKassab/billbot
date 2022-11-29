@@ -12,6 +12,7 @@ logging.basicConfig(level=logging.INFO,
 DISCORD_TOKEN = os.environ.get("DISCORD_TOKEN")
 
 # Slash Command names
+CALCULATE_COMMAND='commandname'
 
 # Emojis
 
